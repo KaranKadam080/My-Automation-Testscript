@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T11:56:48 IST" name="Default suite" finished-at="2024-05-21T11:56:58 IST" duration-ms="10117">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T11:56:48 IST" name="Default test" finished-at="2024-05-21T11:56:58 IST" duration-ms="10117">
+      <class name="Assertion.AssertSoft1">
+        <test-method signature="assertMethods()[pri:0, instance:Assertion.AssertSoft1@6fdbe764]" started-at="2024-05-21T11:56:48 IST" name="assertMethods" finished-at="2024-05-21T11:56:58 IST" duration-ms="10024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertMethods -->
+      </class> <!-- Assertion.AssertSoft1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
